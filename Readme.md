@@ -135,3 +135,9 @@ contrarian trade challenging. This can result in significant losses if the preva
 longer than anticipated. 
 - Successful aggressive trading often depends on precise market timing, which is challenging even 
 for experienced traders.
+
+### Created By:
+
+Barot Devanshu
+Engineering Physics
+23123042
